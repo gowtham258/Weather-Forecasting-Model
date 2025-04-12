@@ -60,6 +60,7 @@ Run the app:
 ```bash
 streamlit run app.py
 ```
+Check out the [Streamlit](https://weather-forecasting-model-2axjjdhdun8zamgnsckff5.streamlit.app/).
 
 ---
 
