@@ -105,5 +105,5 @@ pip install -r requirements.txt
 
 ## 🙌 Author
 
-**Jango**  
+**Akeesh**  
 Project built with ❤️ using Python, Streamlit, and Machine Learning.
